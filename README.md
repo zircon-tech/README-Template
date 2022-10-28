@@ -147,7 +147,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Provide instructions on how to contribute to the project, if long then refer to a separate CONTRIBUTING.md file within this folder. Anyways you can always leave a summary on how to collaborate. 
+Provide instructions on how to contribute to the project, if long then refer to a separate [CONTRIBUTING.md](https://github.com/zircon-tech/README-Template/blob/master/CONTRIBUTING.md) file within this folder. Anyways you can always leave a summary on how to collaborate. 
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -156,6 +156,11 @@ Provide instructions on how to contribute to the project, if long then refer to 
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Changelog
+
+Is its nice to keep track of the different releases of the application, kindly use a [CHANGELOG.md](https://github.com/zircon-tech/README-Template/blob/master/CHANGELOG.md) file to register them. Is is also a good practice to associate each release with a github tag and github release, that helps improving reporting, historical changes and potentially solving issues.
 
 
 
